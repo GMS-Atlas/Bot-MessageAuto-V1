@@ -1,0 +1,15 @@
+{
+  "name": "messageauto-gms",
+  "version": "1.0.0",
+  "description": "Bot MessageAuto GMS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "GMS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.10.3",
+    "gamedig": "^4.0.5"
+  }
+}
